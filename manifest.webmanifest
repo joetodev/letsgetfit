@@ -1,0 +1,17 @@
+{
+  "name": "跟住做 · 離線運動",
+  "short_name": "跟住做",
+  "description": "完全離線嘅跟住做運動：燃脂、筋膜放鬆、混合。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101315",
+  "theme_color": "#101315",
+  "lang": "zh-Hant-HK",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
